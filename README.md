@@ -43,7 +43,8 @@ while True:
 
 s.close()
 ```
-Server:
+
+SERVER:
 ```
 import socket
 from pythonping import ping
